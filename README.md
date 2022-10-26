@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe  width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
-<img align="center" alt="Programing" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="center" width="480" height="360" alt="Programing" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 ## Languages and Tools:
 
