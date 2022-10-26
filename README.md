@@ -35,3 +35,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Hector-Santos&show_icons=true"><p>
+
