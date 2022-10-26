@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex">
+<div style="display: flex; backgorund-color: red">
 <img align="center" src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="50%"/>
 <div>
 Meu objetivo é ser parte de uma organização que me ajude a entregar valor para o cliente através de soluçõesem código que se traduzem em resultados praticos. Para alcançar esse objetivo, pretendo ultilizar HTML, CSS,Javascript ( React, Node.js, Typescript e Prisma ), Postgres Mongo, Redis, GitHub Actions, Docker, AWS, Jest,SuperTest e Cypress, tecnologias que aprendi na minha jornada na Driven
