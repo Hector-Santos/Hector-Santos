@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" width="480" height="360" alt="Programing" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+![](https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp)
 
 ## Languages and Tools:
 
