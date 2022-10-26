@@ -49,3 +49,15 @@ na minha jornada na Driven
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Hector-Santos&show_icons=true"><p>
 
+## 📊 Wakatime
+
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
