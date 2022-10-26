@@ -54,5 +54,7 @@ na minha jornada na Driven
 
 <img align="left" alt="Figma"  width="50%" src="https://wakatime.com/share/@HectorSantos/01eb8c36-90f8-4bc9-8469-dae29729b98e.svg">
 </div>
+<img align="right" alt="Figma"  width="50%" src="https://wakatime.com/share/@HectorSantos/41677878-4ac7-4311-9254-dbf0b0764b95.svg">
+</div>
 
 
