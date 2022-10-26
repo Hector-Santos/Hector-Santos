@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hector-Santos/Hector-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp)
+
+<img src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="100%"/>
 
 ## Languages and Tools:
 
