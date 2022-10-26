@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="100%"/>
+<img align="center" src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="50%"/>
 
 ## Languages and Tools:
 
