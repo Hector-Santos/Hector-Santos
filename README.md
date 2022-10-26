@@ -46,6 +46,13 @@ na minha jornada na Driven
 </div>
 
 ## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Hector-Santos&show_icons=true"><p>
+
+
+## 📊 **Wakatime**
+
 <img align="left" alt="Figma"  width="50%" src="https://wakatime.com/share/@HectorSantos/01eb8c36-90f8-4bc9-8469-dae29729b98e.svg">
 </div>
+
 
