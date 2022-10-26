@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 !-->
-
+<div align="center" width="50%" >
 <img align="center" src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="50%"/>
+</div>
 
 Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluçõesem código
