@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
 
 
-<img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="40%" />
+<img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="55%" />
 
-## Quem sou eu
+### Quem sou eu
 
 - 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
 - 🌱 Atualmente estou aprendendo Redis
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
 
 
-## Objetivo
+### Objetivo
 
 Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
