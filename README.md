@@ -9,16 +9,15 @@ Here are some ideas to get you started:
 
 ### <p align="center">Quem sou eu</p>
 
-<p align="center">
+
 - 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
 - 🌱 Atualmente estou aprendendo Redis
 - 😄 Meus promnomes São ele/dele
 - ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
-</p>
 
 ### <p align="center">Objetivo</p>
 <p align="center">
-Meu objetivo é ser parte de uma organização que me ajude
+- Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
 objetivo, pretendo ultilizar HTML, CSS, Javascript ( React, Node.js,
