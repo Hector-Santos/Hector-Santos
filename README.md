@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 !-->
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="55%" />
 
-### <p align="center">Quem sou eu</p>
+### <p align="center">Sobre mim</p>
 
 
 - 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
