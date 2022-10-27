@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
 
 
-<img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="40%" />
+<img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="50%" />
 
 
 ## Objetivo
@@ -34,7 +34,7 @@ na minha jornada na Driven
 
 ## Languages and Tools:
 
-### Front-end
+#### Front-end
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@ na minha jornada na Driven
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-### Back-end
+#### Back-end
 
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,10 +54,12 @@ na minha jornada na Driven
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Tools
+#### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
