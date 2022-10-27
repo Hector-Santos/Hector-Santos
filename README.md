@@ -5,25 +5,19 @@ Here are some ideas to get you started:
 
 
 !-->
- ###  Contact me
-[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
-
-
 <img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="55%" />
 
 ### <p align="center">Quem sou eu</p>
 
-
+<p align="center">
 - 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
 - 🌱 Atualmente estou aprendendo Redis
 - 😄 Meus promnomes São ele/dele
 - ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
+</p>
 
-
-### Objetivo
-
+### <p align="center">Objetivo</p>
+<p align="center">
 Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
@@ -31,6 +25,7 @@ objetivo, pretendo ultilizar HTML, CSS, Javascript ( React, Node.js,
 Typescript e Prisma ), Postgres Mongo, Redis, GitHub Actions,
 Docker, AWS, Jest,SuperTest e Cypress, tecnologias que aprendi
 na minha jornada na Driven
+</p>
 
 
 ## Languages and Tools:
@@ -82,6 +77,11 @@ na minha jornada na Driven
 </div>
 <img align="right" alt="Figma"  width="100%" src="https://wakatime.com/share/@HectorSantos/74a8e8b5-bac7-49c0-b22c-f7a98ada12c6.svg">
 </div>
+
+ ###  Contact me
+[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
 
 
 
