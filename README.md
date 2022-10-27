@@ -3,14 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 !-->
 ## Contact me
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
@@ -19,6 +12,13 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="50%" />
+
+## Quem sou eu
+
+- 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
+- 🌱 Atualmente estou aprendendo Redis
+- 😄 Meus promnomes São ele/dele
+- ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
 
 
 ## Objetivo
