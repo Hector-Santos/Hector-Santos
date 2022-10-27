@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 !-->
-<img align="left" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="55%" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="55%" />
 
 ### <p align="center">Quem sou eu</p>
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### <p align="center">Objetivo</p>
 
-- Meu objetivo é ser parte de uma organização que me ajude
+Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
 objetivo, pretendo ultilizar HTML, CSS, Javascript ( React, Node.js,
