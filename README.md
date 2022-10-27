@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 !-->
 ## Contact me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos/)
-[<img src="https://img.shields.io/github/followers/HectorSantos?label=follow&style=social" height="20" title="Follow me" />](https://github.com/HectorSantos)
+[<img src="https://img.shields.io/github/followers/HectorSantos?label=follow&style=social" height="20" title="Follow me" />](https://github.com/Hector-Santos)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="20" />](mailto:hector.absantos@outlook.com)
 
 <div align="center" width="50%" >
