@@ -93,6 +93,7 @@ na minha jornada na Driven
 <img align="right" alt="Figma"  width="100%" src="https://wakatime.com/share/@HectorSantos/74a8e8b5-bac7-49c0-b22c-f7a98ada12c6.svg">
 </div>
 
+ ##  .
  ## Entre em contato
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos)
