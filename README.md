@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 ## Contact me
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos)
-<a href="https://wa.me/+5531998541733?text=" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-
-<div align="center" width="50%" >
-<img align="center" src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="50%"/>
-</div>
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
 
 Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
