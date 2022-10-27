@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
 - 🌱 Atualmente estou aprendendo Redis
-- 😄 Meus promnomes São ele/dele
+- 😄 Meus pronomes são: ele/dele
 - ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
 
 ### <p align="center">Objetivo</p>
