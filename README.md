@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 Meu objetivo é ser parte de uma organização que me ajude
-a entregar valor para o cliente através de soluçõesem código
+a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
 objetivo, pretendo ultilizar HTML, CSS, Javascript ( React, Node.js,
 Typescript e Prisma ), Postgres Mongo, Redis, GitHub Actions,
