@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 !-->
+## Contact me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos/)
+[<img src="https://img.shields.io/github/followers/HectorSantos?label=follow&style=social" height="20" title="Follow me" />](https://github.com/HectorSantos)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="20" />](mailto:hector.absantos@outlook.com)
+
 <div align="center" width="50%" >
 <img align="center" src="https://raw.githubusercontent.com/Hector-Santos/Hector-Santos/main/giphy.webp" width="50%"/>
 </div>
@@ -50,7 +55,7 @@ na minha jornada na Driven
 <p><img src="https://github-readme-stats.vercel.app/api?username=Hector-Santos&show_icons=true"><p>
 
 
-## 📊 **Wakatime**
+## 📊 Wakatime
 
 <img align="left" alt="Figma"  width="40%" src="https://wakatime.com/share/@HectorSantos/01eb8c36-90f8-4bc9-8469-dae29729b98e.svg">
 </div>
@@ -58,5 +63,6 @@ na minha jornada na Driven
 </div>
 <img align="right" alt="Figma"  width="100%" src="https://wakatime.com/share/@HectorSantos/74a8e8b5-bac7-49c0-b22c-f7a98ada12c6.svg">
 </div>
+
 
 
