@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorsantos)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531998541733)
 
+
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e77f0344b93ca94ae306e7706c3bff4eab9491ed&rid=giphy.gif" width="40%" />
+
 Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
