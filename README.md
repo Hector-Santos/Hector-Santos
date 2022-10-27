@@ -54,7 +54,7 @@ na minha jornada na Driven
 
 <img align="left" alt="Figma"  width="40%" src="https://wakatime.com/share/@HectorSantos/01eb8c36-90f8-4bc9-8469-dae29729b98e.svg">
 </div>
-<img align="right" alt="Figma"  width="40%" src="https://wakatime.com/share/@HectorSantos/41677878-4ac7-4311-9254-dbf0b0764b95.svg">
+<img align="right"  width="40%" src="https://wakatime.com/share/@HectorSantos/41677878-4ac7-4311-9254-dbf0b0764b95.svg](https://github-readme-stats.vercel.app/api/wakatime?username=HectorSantos&theme=default&show_icons=true&layout=default&langs_count=8">
 </div>
 <img align="right" alt="Figma"  width="100%" src="https://wakatime.com/share/@HectorSantos/74a8e8b5-bac7-49c0-b22c-f7a98ada12c6.svg">
 </div>
