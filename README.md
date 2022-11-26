@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 ### <p align="center">Sobre mim</p>
 
 
-- 🔭 Atualmente estou trabalhando no projeto Driven.T, uma interface de agendamento de ingressos
-- 🌱 Atualmente estou aprendendo Redis
+
 - 😄 Meus pronomes são: ele/dele
 - ⚡ Curiosidade: Fui medalhista da olimpieda brasileira de matemática, a OBMEP
 
