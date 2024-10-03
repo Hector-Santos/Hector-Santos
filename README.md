@@ -89,19 +89,11 @@ Busco agora uma vaga formal para alcançar esse objetivo.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Hector-Santos&show_icons=true"><p>
-
-
 ## 📊 Wakatime
 
-<img align="left" alt="Figma"  width="40%" src="https://wakatime.com/share/@HectorSantos/01eb8c36-90f8-4bc9-8469-dae29729b98e.svg">
+<img align="right"  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HectorSantos&theme=default&show_icons=true&layout=default&langs_count=8">
 </div>
-<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HectorSantos&theme=default&show_icons=true&layout=default&langs_count=8">
-</div>
-<img align="center" width="100%" src="https://wakatime.com/share/@HectorSantos/25e854ec-9e79-46e8-abcc-220869d86817.svg">
-</div>
+
 
 ## Entre em contato
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hector.absantos@outlook.com)
