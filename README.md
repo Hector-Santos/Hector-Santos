@@ -20,13 +20,7 @@ Meu objetivo é ser parte de uma organização que me ajude
 a entregar valor para o cliente através de soluções em código
 que se traduzem em resultados praticos. Para alcançar esse
 objetivo, pretendo ultilizar as tecnologias que aprendi
-na minha jornada como programador, que se iniciou en um
-intensivo no qual cursei de março a dezembro de 2022 e vem
-se concretizando através de oportunidades de trabalho
-free-lancer e em oportunidades de trabalho voluntario
-como o tempo que prestei a organização "is it safe?".
-Busco agora uma vaga formal para alcançar esse objetivo.
-
+na minha jornada como programador.
 
 
 ## Languagens e Ferramentas:
